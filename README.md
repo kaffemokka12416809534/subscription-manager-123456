@@ -1,0 +1,1 @@
+# subscription-manager-123456
